@@ -1,5 +1,6 @@
 ## Miitopia Randomizer (Switch & 3DS)
 
+This is an updated version to fix a crash on the 3DS and extend the randomizer. This version functions a bit differently: All bosses that have one face are given a random face (that has already been assigned). Bosses with multiple random faces cause crashes on the 3DS version so any enem that has multiple faces will not be the result of a randomization. Dragons are also not randomized (either to or from) because they cause problems on the 3DS. I will upload the new and tested source as soon as possible. Here's hoping that a revival project will help out Miitopia 3DS's servers.
 
 ### Requirements
 - A modded switch/3DS or emulator (Ryujinx is suggested due to Mii Maker support, Citra for 3DS)
